@@ -13,3 +13,12 @@ nav img{
 .nav-link{
     color: white;
 }
+
+nav{
+    background: #72e3ff;
+}
+
+footer{
+    background-color: aqua;
+    display: inline-block;
+}
